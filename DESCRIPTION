@@ -1,0 +1,35 @@
+Package: LymphoMapR
+Title: LymphoMapR: Lymphoma Microenvironment Archetype Profile (LymphoMAP) classifer in R
+Version: 1.0
+Authors@R: 
+    c(person("Green",
+             "Lab",
+             role = c("aut", "cph", "cre"),
+             email = "mgreen5@mdanderson.org"))
+Description: LymphoMapR provides an R implementation of the LymphoMAP classification framework for large B-cell lymphoma using bulk gene expression data.
+License: Apache License, Version 2.0
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    caret,
+    circlize,
+    ComplexHeatmap,
+    DESeq2,
+    dplyr,
+    ggplot2,
+    ggpubr,
+    ggrepel,
+    grid,
+    magrittr,
+    naivebayes,
+    SummarizedExperiment,
+    sva,
+    tibble,
+    tidyr,
+    uwot,
+    withr
+RoxygenNote: 7.3.2
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
