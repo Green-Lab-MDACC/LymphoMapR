@@ -30,5 +30,5 @@ result$pred
 
 If you use **LymphoMapR** in your research, please cite:
 
-> Li, X., Singhal, K., Deng, Q., Chihara, D., Russler-Germain, D., Harkins, R. A., Henderson, J., Arita, K., Kizhakeyil, A., Sun, R., Lakra, P., Hussein, U., Foltz, J. A., Wilson, A., Schmidt, E., Nizamuddin, I., Dinh, T., Kesaraju, A., Hamilton, M. P., Allen, C., … Green, M. R. (2025). Large B cell lymphoma microenvironment archetype profiles. Cancer cell, 43(7), 1347–1364.e13. https://doi.org/10.1016/j.ccell.2025.06.002
+> Li X, Singhal K, Deng Q, Chihara D, Russler-Germain D, Harkins RA, Henderson J, Arita K, Kizhakeyil A, Sun R, Lakra P, Hussein U, Foltz JA, Wilson A, Schmidt E, Nizamuddin I, Dinh T, Kesaraju A, Hamilton MP, Allen C, Gandhi MK, Tobin J, Jiang A, Hilton L, Scott DW, Vega F, Flowers CR, Westin JR, Griffith OL, Fehniger TA, Griffith M, Green MR. Large B cell lymphoma microenvironment archetype profiles. Cancer Cell. 2025 Jul 14;43(7):1347-1364.e13. doi: 10.1016/j.ccell.2025.06.002.
 
