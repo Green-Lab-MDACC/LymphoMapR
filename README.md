@@ -30,5 +30,5 @@ result$pred
 
 If you use **LymphoMapR** in your research, please cite:
 
-> Xubin Li, Kartik Singhal, Qing Deng, Dai Chihara, David A Russler-Germain, Usama Hussein, Jennifer Ann Foltz, Jared Henderson, Ashley Wilson, Evelyn Schmidt, Imran A. Nizamuddin, Tommy Dinh, Ryan Sun, Akhil Kesaraju, Laura K. Hilton, David W. Scott, Francisco Vega, Christopher R. Flowers, Obi Griffith, Todd A Fehniger, Malachi Griffith, Michael R. Green, Comprehensive Characterization and Validation of the Tumor Microenvironment in Patients with Relapsed/Refractory Large B-Cell Lymphoma Identifies Subgroups with Greatest Benefit from CD19 CAR T-Cell Therapy, Blood, Volume 144, Supplement 1, 2024. https://doi.org/10.1182/blood-2024-204166.
+> Li, X., Singhal, K., Deng, Q., Chihara, D., Russler-Germain, D., Harkins, R. A., Henderson, J., Arita, K., Kizhakeyil, A., Sun, R., Lakra, P., Hussein, U., Foltz, J. A., Wilson, A., Schmidt, E., Nizamuddin, I., Dinh, T., Kesaraju, A., Hamilton, M. P., Allen, C., … Green, M. R. (2025). Large B cell lymphoma microenvironment archetype profiles. Cancer cell, 43(7), 1347–1364.e13. https://doi.org/10.1016/j.ccell.2025.06.002
 
