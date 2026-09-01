@@ -26,6 +26,8 @@ print(result)
 result$pred
 ```
 
+Classification accuracy is evaluated using cross-validation of the training data in LymphoMapR. To verify whether the predicted archetypes capture the expected biology, users should perform a post-classification differential expression analysis among the three archetypes. The expected differentially expressed genes (DEGs) are highlighted in Figures S7A and S8A of the LymphoMAP paper (Li et al., Cancer Cell, 2025).
+
 ## Citation
 
 If you use **LymphoMapR** in your research, please cite:
