@@ -17,7 +17,8 @@ The main function in **LymphoMapR** is `run_LymphoMap()`, which performs archety
 library(LymphoMapR)
 
 # expr_matrix: your gene-by-sample expression matrix (gene symbols as row names, sample names as column names)
-result <- run_LymphoMap(expr_matrix)
+# data_type: format matching your data (options: "RNAseq_TPM_log2p1" [default], "microarray_lognorm", "RNAseq_counts", or "NanoString_norm_counts")
+result <- run_LymphoMap(expr_matrix, data_type = "RNAseq_TPM_log2p1")
 
 # View classification results
 print(result)
